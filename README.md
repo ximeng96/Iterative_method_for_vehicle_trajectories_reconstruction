@@ -1,6 +1,6 @@
 # An iterative method for correcting and smoothing vehicle trajectories based on first principles
 
-The dataset includes processed trajectory data of vehicles moving at the NGSIM I80 site during 4:00pm to 4:15pm. We focus on the longitudinal vehicle trajectories and offer an approach designed based on the basic principles of road traffic.
+The dataset includes processed trajectory data of vehicles moving at the NGSIM I80 site during 4:00pm to 4:15pm. We focus on the longitudinal vehicle trajectories and offer an iterative method to reconstruct them.
 
 #  Method application with the NGSIM data
 ## Calibration with sample trajectories on freeways and urban arterials
