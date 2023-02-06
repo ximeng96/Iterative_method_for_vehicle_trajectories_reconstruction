@@ -4,7 +4,7 @@ The dataset includes processed trajectory data of vehicles moving at the NGSIM I
 
 #  Method application with the NGSIM data
 ## Calibration with sample trajectories on freeways and urban arterials
-To replicate the samples, the codes are available at "codes -> ite_method", and the data are available at "codes -> sample_data". Note that due to the limitation of the file size in Github, "sample_data" only include part of the trajectories. However, the entire NGSIM dataset can also be used for testing our code, which can be downloaded at https://drive.google.com/drive/u/0/folders/1xT_NrWLFTK_lhAM0glliogUXls1jkaqw.
+To replicate the samples, the codes are available at "codes -> ite_method", and the data are available at "codes -> sample_data". Note that due to the limitation of the file size in Github, "sample_data" only include part of the trajectories. However, the entire NGSIM dataset can also be used for testing our code, which can be downloaded at https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj.
 
 Or the code can be tested via JupyterLite at
 https://ximeng96.github.io/principle_based_method/lab/index.html.
