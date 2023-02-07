@@ -3,7 +3,7 @@
 To replicate the samples, the codes are available at "codes -> ite_method", and the data are available at "codes -> sample_data". Note that due to the limitation of the file size in Github, "sample_data" only include part of the trajectories. However, the entire NGSIM dataset can also be used for testing our code, which can be downloaded at https://drive.google.com/drive/u/0/folders/1xT_NrWLFTK_lhAM0glliogUXls1jkaqw.
 
 Or the code can be tested via JupyterLite at
-https://ximeng96.github.io/principle_based_method/lab/index.html.
+https://ximeng96.github.io/Iterative_method_for_vehicle_trajectories_reconstruction/lab/index.html.
 
 ## Application to the NGSIM I80 dataset
 The codes used for reconstructing the entire NGSIM I80 dataset are available at "codes -> ite_method_dataset". 
