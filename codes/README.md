@@ -6,6 +6,8 @@ The code can also be tested via JupyterLite at
 https://ximeng96.github.io/Iterative_method_for_vehicle_trajectories_reconstruction/lab/index.html. Open the file "ite_method" from the table of contents.
 
 ## Application to the NGSIM I80 dataset
+The codes used for reconstructing the trajectoried recorded by camera 6 are available at "ite_method_camera6" 
+
 The codes used for reconstructing the entire NGSIM I80 dataset are available at "ite_method_dataset". Note that the methodology part for the three .ipynb files are the same, and the differences are only about the application.
 
 # The reconstructed data
